@@ -1,1 +1,2 @@
 print("The roses are my granmother's favourite flowers and also remind me of my childhood")
+print("The scent of the roses that bloom on May, hugging the hot black-golden fence of a school painted in burgundy - holds memories of 11 years of one school girl")
